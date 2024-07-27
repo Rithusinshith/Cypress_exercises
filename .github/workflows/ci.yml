@@ -12,6 +12,4 @@ jobs:
       # and run all Cypress tests
       - name: Cypress run
         uses: cypress-io/github-action@v6
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      
