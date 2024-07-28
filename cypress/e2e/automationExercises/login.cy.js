@@ -8,7 +8,7 @@ describe('As a registered user, I can login into the website', () => {
         logInPage.navigateToLoginPage()
         logInPage.enterUserCreds()
         logInPage.clickLoginButton()
-        logInPage.validateuserLoggedIn
+        logInPage.validateuserLoggedIn()
 
 
     })
